@@ -1,4 +1,4 @@
-﻿Product_ID,Product_Name,Opening _Stock,Purchase_StockIn,Units_Sold,Hand_In_Stock,Price_Per_Unit_USD,Total_Price_USD
+﻿Product_ID,Product_Name,Opening_Stock,Purchase_StockIn,Units_Sold,Hand_In_Stock,Price_Per_Unit_USD,Total_Price_USD
 P101,Laptop,50,20,10,60,1200,72000
 P102,Monitor,40,15,5,50,500,25000
 P103,Keyboard,60,25,15,70,50,3500
